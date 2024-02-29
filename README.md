@@ -16,7 +16,7 @@ Shared Workspace React Native Android, IOS &amp; React Web Starter
 
 Follow Simple Steps 
 
-1. `git clone https://github.com/kant146/WorkspaceReactNativeReactStarter.git`
+1. `git clone https://github.com/kant146/codebank-starter.git`
 
 2. `yarn install --frozen-lockfile`
 3. `cd packages/web`
