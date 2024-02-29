@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "native",
+    "slug": "native",
+    "version": "1.0.0",
+    "entrypoint": "./AppEntry.js",
+    "ignoreNodeModulesValidation": true,
+    "packageOpts": {
+      "config": "rn-cli.config.js",
+      "projectRoots": ""
+    },
+    "privacy": "unlisted",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "native"
+}
