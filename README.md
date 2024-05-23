@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="">
    Code Bank Starter 
+    <img src="https://t.bkit.co/w_664f623feee0a.gif" />
   </a>
 </h1>
 
