@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="">
    Code Bank Starter 
-    <img src="https://t.bkit.co/w_664f623feee0a.gif" />
   </a>
 </h1>
 
@@ -41,5 +40,6 @@ A --> C(React Native App)
 B --> D{npm i codebank-starter}
 C --> D
 ```
+<img src="https://t.bkit.co/w_664f623feee0a.gif" />
 
 
