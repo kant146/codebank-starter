@@ -9,6 +9,8 @@
   To Build Shared Workspace React and React Native Mobile App.
 </p>
 
+<p align="center"> <img  width="40%"  src="./Black and Green Modern Recruitment LinkedIn Post (2).png"  /> </p>
+
 ### 🎉 Building Your First Shared Workspace with React and React Native app 
 
 
